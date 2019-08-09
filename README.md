@@ -11,4 +11,4 @@ Simple contact form in modal window with validation and SMTP Email sender
 
 1. Валидация реализована с помощью плагина jquery.validate.js, документация тут: https://jqueryvalidation.org/
 
-
+**Демо внешнего вида: https://codepen.io/620_x/pen/voKPrB **
